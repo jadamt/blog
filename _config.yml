@@ -10,6 +10,7 @@ url: "http://jadamt.com" # the base hostname & protocol for your site
 twitter_username: jadamt
 github_username:  jadamt
 instagram_username: jadamt
+flickr_username: jadamt
 
 # Build settings
 markdown: kramdown
